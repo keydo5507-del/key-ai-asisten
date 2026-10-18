@@ -1,0 +1,6 @@
+@tailwind base;@tailwind components;@tailwind utilities;
+body{background:#05070d;color:#e6edf7}
+.glow{box-shadow:0 0 24px rgba(47,139,255,.25)}
+.md pre{background:#0b1220;border:1px solid #16233d;border-radius:12px;padding:12px;overflow:auto;margin:8px 0}
+.md table{border-collapse:collapse}.md td,.md th{border:1px solid #1e2d4a;padding:4px 8px}
+.md ul{list-style:disc;padding-left:20px}.md ol{list-style:decimal;padding-left:20px}
